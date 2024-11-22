@@ -1,2 +1,2 @@
-# ogik
+# ogik.github.io
 ogik
